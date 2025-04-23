@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  z-index: -1;
+  position:absolute;
+  top: 0; 
+  right: 0;
+}
+
+body{
+  background-image: url("https://uploads-ssl.webflow.com/5a9ee6416e90d20001b20038/62ee020f7fea4e674a01840c_Rectangle%201%20(35).svg");
+  background-size: cover;
+}
